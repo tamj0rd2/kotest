@@ -2,6 +2,7 @@
 
 plugins {
    id("kotlin-conventions")
+   id("io.kotest.multiplatform")
 }
 
 kotlin {
